@@ -1,7 +1,7 @@
 # Eshop
 So basically, my first big project with tons of php code, SALE code is JAREX10, i am currently still working on this site so act accordingly.
 (i am adding this README something like half a year after working on this last time, so maybe some things won't work on online version.)
-http://milderengentestsite.fun/ link to site itself
+
 
 Functionality:
 - Ability to shop clothes from site
